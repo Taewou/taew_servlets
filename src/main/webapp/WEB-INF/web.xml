@@ -6,37 +6,37 @@
 
 	<servlet>
 		<servlet-name>helloWorld</servlet-name>
-		<servlet-class>org.cjs.examples.HelloWorldServlet</servlet-class>
+		<servlet-class>org.taew.examples.HelloWorldServlet</servlet-class>
 	</servlet>
 
 	<servlet>
 		<servlet-name>hello</servlet-name>
-		<servlet-class>org.cjs.examples.HelloServlet</servlet-class>
+		<servlet-class>org.taew.examples.HelloServlet</servlet-class>
 	</servlet>
 
 	<servlet>
 		<servlet-name>main</servlet-name>
-		<servlet-class>org.cjs.book.chap11.servlets.MainServlet</servlet-class>
+		<servlet-class>org.taew.book.chap11.servlets.MainServlet</servlet-class>
 	</servlet>
 
 	<servlet>
 		<servlet-name>registerStep1</servlet-name>
-		<servlet-class>org.cjs.book.chap11.servlets.RegisterStep1Servlet</servlet-class>
+		<servlet-class>org.taew.book.chap11.servlets.RegisterStep1Servlet</servlet-class>
 	</servlet>
 
 	<servlet>
 		<servlet-name>registerStep2</servlet-name>
-		<servlet-class>org.cjs.book.chap11.servlets.RegisterStep2Servlet</servlet-class>
+		<servlet-class>org.taew.book.chap11.servlets.RegisterStep2Servlet</servlet-class>
 	</servlet>
 
 	<servlet>
 		<servlet-name>registerStep3</servlet-name>
-		<servlet-class>org.cjs.book.chap11.servlets.RegisterStep3Servlet</servlet-class>
+		<servlet-class>org.taew.book.chap11.servlets.RegisterStep3Servlet</servlet-class>
 	</servlet>
 
 	<servlet>
 		<servlet-name>members</servlet-name>
-		<servlet-class>org.cjs.book.chap11.servlets.MemberListServlet</servlet-class>
+		<servlet-class>org.taew.book.chap11.servlets.MemberListServlet</servlet-class>
 	</servlet>
 
 	<servlet-mapping>
